@@ -1,0 +1,104 @@
+[
+    {
+      "name": "Fleet management",
+      "resources": "fleets",
+      "methods": [
+        "GET",
+        "PUT"
+      ]
+    },
+    {
+      "name": "Regular rate",
+      "resources": "regularRates",
+      "methods": [
+        "DELETE",
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    },
+    {
+      "name": "Hourly/daily rate",
+      "resources": "hourlyRates",
+      "methods": [
+        "DELETE",
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    },
+    {
+      "name": "Flat rate",
+      "resources": "flatRates",
+      "methods": [
+        "DELETE",
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    },
+    {
+      "name": "General price",
+      "resources": "generalPrices",
+      "methods": [
+        "DELETE",
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    },
+    {
+      "name": "Default QUp sell price",
+      "resources": "defaultPrice",
+      "methods": [
+        "GET",
+        "PUT"
+      ]
+    },
+    {
+      "name": "Booking report",
+      "resources": "settlementBookings",
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "name": "Fleet report",
+      "resources": "settlementFleets",
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "name": "Zone",
+      "resources": "affiliateFlatZone",
+      "methods": [
+        "DELETE",
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    },
+    {
+      "name": "Permission",
+      "resources": "permissions",
+      "methods": [
+        "DELETE",
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    },
+    {
+      "name": "Users",
+      "resources": "users",
+      "methods": [
+        "DELETE",
+        "GET",
+        "POST",
+        "PUT"
+      ]
+    }
+]

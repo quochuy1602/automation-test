@@ -1,0 +1,12 @@
+{
+  "mongo": {
+    "host": "mongodb://192.168.2.85:27017/test-hydra",
+    "port": 27017,
+    "username": "",
+    "password": ""
+  },
+  "reportAPI" : {
+    "host" : "http://192.168.2.90:",
+    "port" : 8089
+  }
+}
